@@ -1,0 +1,6 @@
+if SHIELD_KEYBOARD_1
+
+config ZMK_KEYBOARD_NAME
+    default keyboard_1_left
+
+endif

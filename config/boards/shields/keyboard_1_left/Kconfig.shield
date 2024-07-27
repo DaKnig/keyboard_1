@@ -1,0 +1,2 @@
+config KEYBOARD_1_LEFT
+    def_bool $(shield_list_contains, keyboard_1_left)
